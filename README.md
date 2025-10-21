@@ -17,7 +17,7 @@
       href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Inter:wght@400;600&display=swap"
       rel="stylesheet"
     />
-    <link rel="icon" href="icon.svg" type="image/svg+xml" />
+    <!-- <link rel="icon" href="icon.svg" type="image/svg+xml" /> -->
     <style>
       :root {
         --bg: #111;
